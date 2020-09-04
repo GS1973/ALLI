@@ -3,5 +3,5 @@
 "description": "The Alliance Stakepools ",
 "ticker": "ALLI",
 "homepage": "https://alliancestakepools.online",
-"extended": "https://bekindstakepools.online/BKINDMN_ext.json"
+"extended": "https://raw.githubusercontent.com/GS1973/ALLI/master/ALLIe.json"
 }
