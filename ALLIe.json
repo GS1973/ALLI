@@ -21,7 +21,7 @@
       "vat_id": ""
     },
     "about": {
-      "me": "The Alliance is a consolidated pool consisting of multiple pool owners who have insufficient stake in their own pools to produce blocks in each epoch. The owner rewards of the Alliance are distributed to its owners and are used to cover the costs of running the individual pools of the participating operators. With this the Alliance supports the decentralization of Cardano. Next to that the Alliance enables these pool operators to get sufficient stake to anchor their pools. Last but not least the Alliance aims to deliver high ROI for its delegators. Support decentralization, the operators and yourself by delegating to the Alliance.",
+      "me": "We are the Alliance Stake Pool. We are group of small Cardano Stake Pool Operators who decided to collaborate to consolidate our own small stake pools by joining our forces. Each of us pledged 10K ADA to the Alliance pool and together we strive to collect enough pledge and stake so we can start minting blocks. The pool rewards are then distributed to the individual stake pools giving them a chance to grow and survive. Besides members the Alliance pool also welcomes sponsors. These are pools, with enough stake to produce blocks, that are willing to pledge 10K ADA but do not expect any rewards in return. By doing this, they are actively helping decentralize the Cardano ecosystem. Of course, we also welcome delegators who are looking for a stake pool with special emphasis on supporting the Cardano ecosystem. The Alliance pool and it’s relay nodes run on premium bare metal servers with 24/7 uptime. Security is very important to us. We value your ADA.",
       "server": "",
       "company": ""
     },
